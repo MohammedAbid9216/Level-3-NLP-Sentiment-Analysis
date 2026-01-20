@@ -60,4 +60,61 @@ Only **Text** and **Sentiment** columns are used for modeling.
 1. Open terminal in the project directory
 2. Run the command:
 ```bash
+
+
+
+
 py level3_task2_nlp.py
+
+
+---
+
+## 🔹 Level 3 – Task 1: Time Series Analysis
+
+### 📌 Objective
+To analyze time-series data and forecast future values using statistical modeling techniques.
+
+---
+
+### 📂 Dataset
+**File:** `sales_timeseries.csv`
+
+The dataset contains:
+- Date column representing time
+- Sales column representing numerical values over time
+
+---
+
+### 🛠 Techniques Used
+
+
+
+
+## 👤 Author
+**Name:** Mohammed Abid  
+**Role:** Data Science Intern  
+**Internship Program:** AI / Data Science Internship  
+**Skills:** Python, Machine Learning, Data Analysis, NLP, Time Series Forecasting  
+
+---
+
+## 🏢 Internship Details
+This project is developed as part of a **Level 3 Internship Task**, focusing on applying real-world machine learning techniques including:
+
+- Time Series Analysis & Forecasting
+- Natural Language Processing (Sentiment Analysis)
+- Predictive Modeling using Python and Scikit-learn
+
+The work demonstrates practical understanding of data preprocessing, model building, evaluation, and deployment-ready coding practices.
+
+- Time series visualization
+- Trend and seasonality decomposition
+- Moving average smoothing
+- ARIMA forecasting model
+
+---
+
+### ▶️ How to Run
+```bash
+py level3_task1_timeseries.py
+
